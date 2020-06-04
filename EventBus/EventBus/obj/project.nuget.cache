@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "enSKuX03EPLwNArEM6wgk2R3hiu92hCPrM3Leom1HEfECsj7481qSW6EwwoGTsP+Hw6uKf/t4ZhZGbFtzlug9g==",
+  "success": true,
+  "projectFilePath": "C:\\EUA\\C_sharp_big\\BuildingBlocks\\EventBus\\EventBus\\EventBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\InonBarnea\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\InonBarnea\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
