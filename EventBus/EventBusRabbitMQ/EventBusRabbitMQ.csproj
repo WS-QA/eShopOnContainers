@@ -15,7 +15,7 @@
     <PackageReference Include="System.ValueTuple" Version="4.5.0" />
     <PackageReference Include="Mono.Security" Version="3.2.3" />
     <PackageReference Include="Gw2Sharp" Version="0.3.0" />
-    <PackageReference Include="SharpCompress" Version="0.20.0" />
+    <PackageReference Include="SharpCompress" Version="0.29.0" />
 
 
   </ItemGroup>
